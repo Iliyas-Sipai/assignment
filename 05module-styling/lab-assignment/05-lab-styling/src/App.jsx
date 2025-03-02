@@ -7,7 +7,7 @@ import mystyle from '/mystyle.module.css'
 
 function App() {
     // inline CSS
-  const style = { color: "blue", fontSize: "20px" };
+  const style = { color: "red", fontSize: "20px" };
   const color = {background:"yellow", color: "black"}
   return (
     <>
